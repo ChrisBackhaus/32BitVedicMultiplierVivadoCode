@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Apr 24 15:52:24 2018
+# Process ID: 9380
+# Current directory: C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/synth/timing
+# Command line: wbtcv.exe -mode batch -source C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/synth/timing/xsim.dir/ThirtyTwobit_tb_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/synth/timing/webtalk.log
+# Journal file: C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/synth/timing\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/synth/timing/xsim.dir/ThirtyTwobit_tb_time_synth/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/synth/timing/xsim.dir/ThirtyTwobit_tb_time_synth/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Tue Apr 24 15:52:25 2018. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2017.2/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr 24 15:52:25 2018...

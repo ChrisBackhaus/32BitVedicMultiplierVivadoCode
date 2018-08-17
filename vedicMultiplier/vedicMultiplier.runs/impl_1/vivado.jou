@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Apr 24 11:54:54 2018
+# Process ID: 15280
+# Current directory: C:/Users/matthew/vedicMultiplier/vedicMultiplier.runs/impl_1
+# Command line: vivado.exe -log vedic32_32.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vedic32_32.tcl -notrace
+# Log file: C:/Users/matthew/vedicMultiplier/vedicMultiplier.runs/impl_1/vedic32_32.vdi
+# Journal file: C:/Users/matthew/vedicMultiplier/vedicMultiplier.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source vedic32_32.tcl -notrace

@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "vedic16_16_TB_func_impl.v"
+verilog xil_defaultlib  "../../../../vedicMultiplier.srcs/sim_1/new/vedic16-16_TB.V"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,20 @@
+0.6
+2017.2
+Jun 15 2017
+18:52:51
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/behav/glbl.v,1497407496,verilog,,,,glbl,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sim_1/new/vedic16-16_TB.V,1524257397,verilog,,,,ThirtyTwobit_tb,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/4bitMultiplier.v,1523403510,verilog,,,,twobitMultiplier,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/CRA32bit.v,1524249705,verilog,,,,CRA32bit,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/CRA48bit.v,1524241230,verilog,,,,CRA48bit,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/FullAdder.v,1523415176,verilog,,,,FullAdder,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/eightBitCRA.v,1523414319,verilog,,,,eightBitCRA,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/fourBitFullAdder.v,1523404090,verilog,,,,fourBitFullAdder,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/fourBitVedic.v,1522712577,verilog,,,,fourBitVedic,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/sixBitFullAdder.v,1522107440,verilog,,,,sixBitFullAdder,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/sixteenBitCRA.v,1523398760,verilog,,,,sixteenBitCRA,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/twelveBitCRA.v,1523384005,verilog,,,,twelveBitCRA,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/twentyfourBitCRA.v,1523399986,verilog,,,,twentyfourBitCRA,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/vedic16_16.v,1524116646,verilog,,,,vedic16_16,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/vedic32_32.v,1524249338,verilog,,,,vedic32_32,,,,,,,,
+C:/Users/matthew/vedicMultiplier/vedicMultiplier.srcs/sources_1/new/vedic8_8.v,1524115691,verilog,,,,vedic8_8,,,,,,,,

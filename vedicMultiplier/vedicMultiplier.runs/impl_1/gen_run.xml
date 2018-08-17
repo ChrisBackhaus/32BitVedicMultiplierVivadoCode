@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1524596084">
+  <File Type="PLACE-DCP" Name="vedic32_32_placed.dcp"/>
+  <File Type="PA-DCP" Name="vedic32_32.dcp"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="vedic32_32_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="vedic32_32_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="vedic32_32_power_routed.rpx"/>
+  <File Type="PA-TCL" Name="vedic32_32.tcl"/>
+  <File Type="OPT-HWDEF" Name="vedic32_32.hwdef"/>
+  <File Type="RDI-RDI" Name="vedic32_32.vdi"/>
+  <File Type="OPT-DCP" Name="vedic32_32_opt.dcp"/>
+  <File Type="OPT-DRC" Name="vedic32_32_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="vedic32_32_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="vedic32_32_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="vedic32_32_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="vedic32_32_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-IO" Name="vedic32_32_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="vedic32_32_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="vedic32_32_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="vedic32_32_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="vedic32_32_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="vedic32_32_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="vedic32_32_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="vedic32_32_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="vedic32_32_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="vedic32_32_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="vedic32_32_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="vedic32_32_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="vedic32_32_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="vedic32_32_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="vedic32_32_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="vedic32_32_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="vedic32_32_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="vedic32_32_drc_routed.pb"/>
+  <File Type="BG-BIN" Name="vedic32_32.bin"/>
+  <File Type="ROUTE-DRC-RPX" Name="vedic32_32_drc_routed.rpx"/>
+  <File Type="BG-DRC" Name="vedic32_32.drc"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="vedic32_32_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MSK" Name="vedic32_32.msk"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="vedic32_32_methodology_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="vedic32_32.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="vedic32_32_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="vedic32_32_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="vedic32_32_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="vedic32_32_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="vedic32_32_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="vedic32_32_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="vedic32_32_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="vedic32_32_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="vedic32_32_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="vedic32_32_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="vedic32_32_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="vedic32_32_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="vedic32_32_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="vedic32_32_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="vedic32_32_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="vedic32_32.bit"/>
+  <File Type="BITSTR-RBT" Name="vedic32_32.rbt"/>
+  <File Type="BITSTR-NKY" Name="vedic32_32.nky"/>
+  <File Type="BITSTR-BMM" Name="vedic32_32_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="vedic32_32.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="vedic32_32.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/4bitMultiplier.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/CRA32bit.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/CRA48bit.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/FullAdder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/eightBitCRA.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fourBitFullAdder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fourBitVedic.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sixBitFullAdder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sixteenBitCRA.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/twelveBitCRA.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/twentyfourBitCRA.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vedic16_16.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vedic8_8.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vedic32_32.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="vedic32_32"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2017"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

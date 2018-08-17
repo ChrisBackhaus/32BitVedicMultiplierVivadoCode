@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Apr 24 11:58:22 2018
+# Process ID: 1760
+# Current directory: C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/impl/timing
+# Command line: wbtcv.exe -mode batch -source C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/impl/timing/xsim.dir/ThirtyTwobit_tb_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/impl/timing/webtalk.log
+# Journal file: C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/impl/timing\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/matthew/vedicMultiplier/vedicMultiplier.sim/sim_1/impl/timing/xsim.dir/ThirtyTwobit_tb_time_impl/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:15 . Memory (MB): peak = 61.688 ; gain = 1.152
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr 24 11:58:37 2018...

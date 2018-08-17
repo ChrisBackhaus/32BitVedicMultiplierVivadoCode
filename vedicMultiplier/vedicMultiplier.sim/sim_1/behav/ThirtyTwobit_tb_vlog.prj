@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/4bitMultiplier.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/CRA32bit.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/CRA48bit.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/FullAdder.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/eightBitCRA.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/fourBitFullAdder.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/fourBitVedic.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/sixBitFullAdder.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/sixteenBitCRA.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/twelveBitCRA.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/twentyfourBitCRA.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/vedic16_16.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/vedic32_32.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sources_1/new/vedic8_8.v"
+verilog xil_defaultlib  "../../../vedicMultiplier.srcs/sim_1/new/vedic16-16_TB.V"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
